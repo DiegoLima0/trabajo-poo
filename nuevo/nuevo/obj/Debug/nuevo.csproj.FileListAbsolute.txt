@@ -1,0 +1,7 @@
+E:\trabajo-poo\nuevo\nuevo\bin\Debug\nuevo.exe.config
+E:\trabajo-poo\nuevo\nuevo\bin\Debug\nuevo.exe
+E:\trabajo-poo\nuevo\nuevo\bin\Debug\nuevo.pdb
+E:\trabajo-poo\nuevo\nuevo\obj\Debug\nuevo.csproj.AssemblyReference.cache
+E:\trabajo-poo\nuevo\nuevo\obj\Debug\nuevo.csproj.CoreCompileInputs.cache
+E:\trabajo-poo\nuevo\nuevo\obj\Debug\nuevo.exe
+E:\trabajo-poo\nuevo\nuevo\obj\Debug\nuevo.pdb
